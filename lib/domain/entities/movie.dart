@@ -1,5 +1,11 @@
 
 
+/*
+  Entity con respecto a la informacion de las peliculas
+   ! Se debe de tener cuidado con los datos que pueden ser null
+
+*/ 
+
 class Movie {
   final bool adult;
   final String backdropPath;
